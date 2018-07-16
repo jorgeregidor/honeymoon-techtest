@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: sam
+  score: 2
+  destination: barcelona
+
+two:
+  user: jenny
+  score: 4
+  destination: barcelona
+
+three:
+  user: jenny
+  score: 5
+  destination: zagreb
+
+four:
+  user: kyle
+  score: 3
+  destination: barcelona

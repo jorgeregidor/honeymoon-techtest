@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+sam:
+  name: sam
+
+jenny:
+  name: jenny
+
+luke:
+  name: luke
+
+kyle:
+  name: kyle
+
+dyson:
+  name: dyson
+
+bill:
+  name: bill

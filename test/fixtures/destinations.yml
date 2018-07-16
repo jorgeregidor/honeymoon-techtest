@@ -1,0 +1,16 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+barcelona:
+  name: Barcelona
+  description: Sunshine 300 days a year!
+  price: 1300
+
+zagreb:
+  name: Zagreb
+  description: We reached the World cup final 2018, vibrant cities and unrivalled cultural experiences.
+  price: 2000
+
+algarve:
+  name: Algarve
+  description: Ideal for families who are looking to escape the hustle and bustle.
+  price: 1300
