@@ -9,4 +9,8 @@ class Destination < ApplicationRecord
       price: price
     }
   end
+
+  def average_rating
+  	self.ratings.average(:score)
+  end
 end
